@@ -1,8 +1,6 @@
 # Aung Myo Kyaw
 
-```
-စည်းအပြင်က လူ
-```
+
 
 [We will survive](https://youtu.be/3tBk7ONm95Q)
 
