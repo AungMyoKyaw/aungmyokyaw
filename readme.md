@@ -4,8 +4,13 @@
 
 ---
 
-[ဟန်ဆောင်သိပ်ကောင်းလွန်းတဲ့ လူတွေကို ငါကြောက်လို့ ငါလိုလူအတွက် နေရာဘယ်မှာမှမရှိပါ ဘေးထွက်ခဲ့](https://youtu.be/xj90ErHFumI)
+[ဘယ်လို နည်း နဲ့ မှ](https://youtu.be/iNvpz3aBySE?list=PLn1wGLjc4_qzuEtGMeb1DYh9lSxj-vqCe)
 
-[![A Kya - အကျ](https://img.youtube.com/vi/xj90ErHFumI/0.jpg)](https://www.youtube.com/watch?v=xj90ErHFumI)
+[ငါဖြေရှင်းလို့ မရ](https://youtu.be/iNvpz3aBySE?list=PLn1wGLjc4_qzuEtGMeb1DYh9lSxj-vqCe)
+
+[ဒဏ်ရာများနဲ့ သာ](https://youtu.be/iNvpz3aBySE?list=PLn1wGLjc4_qzuEtGMeb1DYh9lSxj-vqCe)
+
+[တို့ရဲ့ နေ့တွေ ညတွေ ရှည်လျား](https://youtu.be/iNvpz3aBySE?list=PLn1wGLjc4_qzuEtGMeb1DYh9lSxj-vqCe)
+
 
 ---
