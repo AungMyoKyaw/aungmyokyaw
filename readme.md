@@ -4,13 +4,13 @@
 
 ---
 
-[ဘယ်လို နည်း နဲ့ မှ](https://youtu.be/iNvpz3aBySE?list=PLn1wGLjc4_qzuEtGMeb1DYh9lSxj-vqCe)
+[နေရာတိုင်းမှာ အတု အတု](https://youtu.be/qEhlogtz1Zk)
 
-[ငါဖြေရှင်းလို့ မရ](https://youtu.be/iNvpz3aBySE?list=PLn1wGLjc4_qzuEtGMeb1DYh9lSxj-vqCe)
+[ဘယ်မှာ အစစ်တွေ အစစ်တွေ](https://youtu.be/qEhlogtz1Zk)
 
-[ဒဏ်ရာများနဲ့ သာ](https://youtu.be/iNvpz3aBySE?list=PLn1wGLjc4_qzuEtGMeb1DYh9lSxj-vqCe)
+[လိုချင်တဲ့အဖြေမှန်တွေဟာ သေဆုံးပြီ](https://youtu.be/qEhlogtz1Zk)
 
-[တို့ရဲ့ နေ့တွေ ညတွေ ရှည်လျား](https://youtu.be/iNvpz3aBySE?list=PLn1wGLjc4_qzuEtGMeb1DYh9lSxj-vqCe)
+[![အတု](https://img.youtube.com/vi/qEhlogtz1Zk/0.jpg)](https://www.youtube.com/watch?v=qEhlogtz1Zk)
 
 
 ---
