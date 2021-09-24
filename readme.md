@@ -1,6 +1,6 @@
 # Aung Myo Kyaw
 
-> aTyPiCaL
+> atypical
 
 ---
 
