@@ -1,6 +1,6 @@
 # Aung Myo Kyaw
 
-> atypical
+> atypical, tired of seeking validation
 
 ---
 
