@@ -1,6 +1,6 @@
 # Aung Myo Kyaw
 
-> atypical, tired of seeking validation
+> noitadilav gnikees yltnatsnoc ,lacipyta
 
 ---
 
