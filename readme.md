@@ -1,6 +1,6 @@
 # [Aung Myo Kyaw](https://www.aungmyokyaw.com)
 
-> 🦀 noitadilav gnikees yltnatsnoc ,lacipyta
+> 🦀 လူဆိုတာ သေရင် တယောက် ထဲ ၊ အားလုံး ကိုယ့်ဘဝနဲ့ကိုယ်
 
 ---
 
