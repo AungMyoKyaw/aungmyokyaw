@@ -4,6 +4,6 @@
 
 ---
 
-[i](aungmyokyaw.com) [write](blog.aungmyokyaw.com) [code](github.com/AungMyoKyaw)
+[i](https://aungmyokyaw.com) [write](https://blog.aungmyokyaw.com) [code](https://github.com/AungMyoKyaw)
 
 ---
