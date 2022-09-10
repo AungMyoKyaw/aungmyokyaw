@@ -4,6 +4,6 @@
 
 ---
 
-
+[i](www.aungmyokyaw.com) [write](blog.aungmyokyaw.com) [code](github.com/AungMyoKyaw)
 
 ---
