@@ -4,8 +4,8 @@
 
 ---
 
--<a href="https://aungmyokyaw.com" target="_blank">
-| - <img src="assets/cover.svg" align="center">
-| -</a>
+<a href="https://aungmyokyaw.com" target="_blank">
+ <img src="assets/cover.svg" align="center">
+</a>
 
 ---
