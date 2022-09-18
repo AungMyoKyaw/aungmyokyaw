@@ -1,6 +1,6 @@
 # [Aung Myo Kyaw](https://www.aungmyokyaw.com)
 
-> [i](https://aungmyokyaw.com) [write](https://blog.aungmyokyaw.com) [code](https://github.com/AungMyoKyaw)
+> i write code
 
 ---
 
