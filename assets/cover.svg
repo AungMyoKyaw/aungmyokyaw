@@ -13,13 +13,31 @@
         to="1"
       />
     </stop>
-    <stop offset="0" stop-color="#F1FAEE">
+    <stop offset="100%" stop-color="#F1FAEE">
       <animate
         dur="2s"
         attributeName="offset"
         repeatCount="indefinite"
         from="0"
         to="1"
+      />
+    </stop>
+    <stop offset="0" stop-color="#F1FAEE">
+      <animate
+        dur="2s"
+        attributeName="offset"
+        repeatCount="indefinite"
+        from="1"
+        to="0"
+      />
+    </stop>
+    <stop offset="100%" stop-color="#A8DADC">
+      <animate
+        dur="2s"
+        attributeName="offset"
+        repeatCount="indefinite"
+        from="1"
+        to="0"
       />
     </stop>
   </linearGradient>
