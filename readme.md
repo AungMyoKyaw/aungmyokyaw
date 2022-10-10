@@ -9,3 +9,5 @@
 </a>
 
 ---
+
+> the finish line don't have an expiration date
