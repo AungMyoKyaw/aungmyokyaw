@@ -10,4 +10,4 @@
 
 ---
 
-> the finish line don't have an expiration date
+> the finish line doesn't have an expiration date
