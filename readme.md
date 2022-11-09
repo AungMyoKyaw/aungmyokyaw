@@ -6,9 +6,7 @@
 
 ---
 
-<a href="https://aungmyokyaw.com" target="_blank">
- <img src="assets/cover.svg" align="center">
-</a>
+[![ကျမ](https://img.youtube.com/vi/SCkr-a2XVqE/0.jpg)](https://youtu.be/SCkr-a2XVqE)
 
 ---
 
