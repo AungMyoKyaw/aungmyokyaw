@@ -10,6 +10,6 @@
 
 ---
 
-![sky blue](././assets/skyblue.png)
+## ![sky blue](././assets/skyblue.png)
 
 > the finish line doesn't have an expiration date
