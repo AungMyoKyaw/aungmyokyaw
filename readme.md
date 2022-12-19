@@ -10,7 +10,7 @@
 
 ---
 
-![sky blue](././assets/skyblue.png)
+[![Nga Lo Chit Mae Thu](https://img.youtube.com/vi/lkdn13gExA8/0.jpg)](https://youtu.be/lkdn13gExA8?list=PL-fy9R_jBETXsgiWNC59hlP2nzaC9Ijfl)
 
 ---
 
