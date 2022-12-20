@@ -10,7 +10,13 @@
 
 ---
 
-[![Nga Lo Chit Mae Thu](https://img.youtube.com/vi/lkdn13gExA8/0.jpg)](https://youtu.be/lkdn13gExA8?list=PL-fy9R_jBETXsgiWNC59hlP2nzaC9Ijfl)
+[![fly](https://img.youtube.com/vi/7dcNG6-5O2o/0.jpg)](https://youtu.be/7dcNG6-5O2o)
+
+```txt
+It's a light inside of all of us
+Soon, you'll find that
+It's your time to fly
+```
 
 ---
 
