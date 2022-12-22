@@ -10,6 +10,14 @@
 
 ---
 
+[![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=AungMyoKyaw)](https://github.com/AungMyoKyaw)
+
+[![AungMyoKyaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungMyoKyaw)](https://github.com/AungMyoKyaw)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AungMyoKyaw&layout=compact)](https://github.com/AungMyoKyaw)
+
+---
+
 [![fly](https://img.youtube.com/vi/7dcNG6-5O2o/0.jpg)](https://youtu.be/7dcNG6-5O2o)
 
 ```txt
