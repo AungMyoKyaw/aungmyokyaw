@@ -14,7 +14,7 @@
 
 [![AungMyoKyaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungMyoKyaw&theme=transparent)](https://github.com/AungMyoKyaw)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AungMyoKyaw&layout=compact)](https://github.com/AungMyoKyaw)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AungMyoKyaw&layout=compact&theme=transparent)](https://github.com/AungMyoKyaw)
 
 ---
 
