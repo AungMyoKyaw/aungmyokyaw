@@ -6,7 +6,7 @@
 
 > 💻 🧘‍♂️ 📝 📚 📖 🖋️ 🎸 🌸
 
-> contact me at v15ap5wd@anonaddy.me
+> [meet with me](https://calendly.com/aungmyokyaw/meetwithme)
 
 ---
 
