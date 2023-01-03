@@ -6,7 +6,7 @@
 
 > 💻 🧘‍♂️ 📝 📚 📖 🖋️ 🎸 🌸
 
-> [meet with me](https://calendly.com/aungmyokyaw/meetwithme)
+> [MEET WITH ME](https://calendly.com/aungmyokyaw/meetwithme)
 
 ---
 
