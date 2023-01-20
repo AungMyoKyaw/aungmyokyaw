@@ -10,7 +10,7 @@
 
 ---
 
-[![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=AungMyoKyaw)](https://github.com/AungMyoKyaw)
+[![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=AungMyoKyaw&style=for-the-badge)](https://github.com/AungMyoKyaw)
 
 [![AungMyoKyaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungMyoKyaw&theme=transparent)](https://github.com/AungMyoKyaw)
 
