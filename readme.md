@@ -12,9 +12,9 @@
 
 [![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=AungMyoKyaw&style=for-the-badge)](https://github.com/AungMyoKyaw)
 
-[![AungMyoKyaw's GitHub stats](https://github-readme-stats-orpin-five.vercel.app/api?username=AungMyoKyaw&theme=transparent)](https://github.com/AungMyoKyaw)
+[![AungMyoKyaw's GitHub stats](https://github-readme-stats.aungmyokyaw.com/api?username=AungMyoKyaw&theme=transparent)](https://github.com/AungMyoKyaw)
 
-[![Top Langs](https://github-readme-stats-orpin-five.vercel.app/api/top-langs/?username=AungMyoKyaw&layout=compact&theme=transparent)](https://github.com/AungMyoKyaw)
+[![Top Langs](https://github-readme-stats.aungmyokyaw.com/api/top-langs/?username=AungMyoKyaw&layout=compact&theme=transparent)](https://github.com/AungMyoKyaw)
 
 ---
 
