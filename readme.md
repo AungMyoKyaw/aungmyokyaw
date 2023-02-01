@@ -2,8 +2,6 @@
 
 > i write code
 
-> late bloomer 🌸
-
 > 💻 🧘‍♂️ 📝 📚 📖 🖋️ 🎸 🌸
 
 > [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aungmyokyaw/)
@@ -25,6 +23,10 @@ It's a light inside of all of us
 Soon, you'll find that
 It's your time to fly
 ```
+
+> မျှော်လင့်ခြင်းတွေ ရင်မှာ ပြန် ရှင်သန်လာ
+
+> မာန်မာနတွေ ရင်မှာ ပြန်ခိုင်မာလာ
 
 ---
 
