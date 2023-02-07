@@ -6,6 +6,8 @@
 
 > [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aungmyokyaw/)
 
+> ပညာ သမာ၊ အာဘာ နတ္ထိ
+
 ---
 
 [![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=AungMyoKyaw&style=for-the-badge)](https://github.com/AungMyoKyaw)
