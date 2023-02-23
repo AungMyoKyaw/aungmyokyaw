@@ -8,6 +8,10 @@
 
 > ပညာ သမာ၊ အာဘာ နတ္ထိ
 
+> I am the greatest
+
+> I said that even before I knew I was
+
 ---
 
 [![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=AungMyoKyaw&style=for-the-badge)](https://github.com/AungMyoKyaw)
@@ -25,10 +29,6 @@ It's a light inside of all of us
 Soon, you'll find that
 It's your time to fly
 ```
-
-> မျှော်လင့်ခြင်းတွေ ရင်မှာ ပြန် ရှင်သန်လာ
-
-> မာန်မာနတွေ ရင်မှာ ပြန်ခိုင်မာလာ
 
 ---
 
