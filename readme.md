@@ -25,8 +25,18 @@
 [![fly](https://img.youtube.com/vi/7dcNG6-5O2o/0.jpg)](https://youtu.be/7dcNG6-5O2o)
 
 ```txt
-It's a light inside of all of us
-Soon, you'll find that
+A single step becomes a leap of faith
+That's when you realize you started flying
+So don't you ever say you're giving up ?
+No, there's no looking back
+
+'Cause we were all meant to fly
+Spread your wings across the universe
+It's your time to
+It's your time to shine
+There's a light inside of all of us
+Soon you'll find that
+It's your time to fly
 It's your time to fly
 ```
 
