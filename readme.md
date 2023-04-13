@@ -12,7 +12,7 @@
 
 > I said that even before I knew I was
 
-> 😍 love this song https://youtu.be/TEwJvCZBX3Q
+> 😍 love this song https://youtu.be/TEwJvCZBX3Q 😍
 
 ---
 
