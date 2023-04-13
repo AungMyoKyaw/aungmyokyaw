@@ -23,6 +23,12 @@
 [![Top Langs](https://github-readme-stats.aungmyokyaw.com/api/top-langs/?username=AungMyoKyaw&layout=compact&theme=transparent)](https://github.com/AungMyoKyaw)
 
 ---
+
+```mermaid
+flowchart LR
+A("လမ်းမတွေ့ တဲ့ အမှောင်ထဲတိုး </br> စမ်းတဝါး နဲ့ မနေချင်လို့ </br> မတပ်မက် တော့ဘူး မရချင်ဘူး </br> ငါ့ဘဝကို ပြန်ယူ ")
+```
+
 [![ငါ့ဘဝပြန်ယူ](https://img.youtube.com/vi/TEwJvCZBX3Q/0.jpg)](https://youtu.be/TEwJvCZBX3Q)
 ---
 
