@@ -12,8 +12,6 @@
 
 > I said that even before I knew I was
 
-> 😍 love this song https://youtu.be/TEwJvCZBX3Q 😍
-
 ---
 
 [![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=AungMyoKyaw&style=for-the-badge)](https://github.com/AungMyoKyaw)
@@ -21,15 +19,6 @@
 [![AungMyoKyaw's GitHub stats](https://github-readme-stats.aungmyokyaw.com/api?username=AungMyoKyaw&theme=transparent)](https://github.com/AungMyoKyaw)
 
 [![Top Langs](https://github-readme-stats.aungmyokyaw.com/api/top-langs/?username=AungMyoKyaw&layout=compact&theme=transparent)](https://github.com/AungMyoKyaw)
-
----
-
-```mermaid
-flowchart LR
-A("အိပ်မက် က လန့်နိုးတိုင်းအမြဲ </br> လက်ရှိ ဘဝကို မုန်းတီးနေတုန်းပဲ </br> ရုန်းထွက်ဖို့ မတတ်စွမ်းသာ </br> ရှင်ရတဲ့ လူ့ဘဝ ဒုက္ခတွေကြားမှာ")--> |"🎵"| A2("ငါ့ဘဝကို ယူသွားပါ </br> ဒုက္ခတွေ ချုပ်ငြိမ်းရာ </br> အမှားမကင်းနိုင်တဲ့ သံသရာထဲက") --> |"🎵"| A3("လမ်းမတွေ့ တဲ့ အမှောင်ထဲတိုး </br> စမ်းတဝါး နဲ့ မနေချင်လို့ </br> မတပ်မက် တော့ဘူး မရချင်ဘူး </br> ငါ့ဘဝကို ပြန်ယူ")
-```
-
-[![ငါ့ဘဝပြန်ယူ](https://img.youtube.com/vi/TEwJvCZBX3Q/0.jpg)](https://youtu.be/TEwJvCZBX3Q)
 
 ---
 
