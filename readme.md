@@ -12,13 +12,9 @@
 
 > I said that even before I knew I was
 
+> အဲ့တာ ငါ့ စောက်ကြောင်းလေ
+
 ---
-
-[![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=AungMyoKyaw&style=for-the-badge)](https://github.com/AungMyoKyaw)
-
-[![AungMyoKyaw's GitHub stats](https://github-readme-stats.aungmyokyaw.com/api?username=AungMyoKyaw&theme=transparent)](https://github.com/AungMyoKyaw)
-
-[![Top Langs](https://github-readme-stats.aungmyokyaw.com/api/top-langs/?username=AungMyoKyaw&layout=compact&theme=transparent)](https://github.com/AungMyoKyaw)
 
 ---
 
