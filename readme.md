@@ -8,9 +8,7 @@
 
 > ပညာ သမာ၊ အာဘာ နတ္ထိ
 
-> I am the greatest
-
-> I said that even before I knew I was
+> I am the greatest. I said that even before I knew I was
 
 > အဲ့တာ ငါ့ စောက်ကြောင်းလေ
 
