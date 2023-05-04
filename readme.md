@@ -14,6 +14,10 @@
 
 > အဲ့တာ ငါ့ စောက်ကြောင်းလေ
 
+> the finish line doesn't have an expiration date
+
+> စောက်ကြောင်း means the finish line 🤣
+
 ---
 
 ---
@@ -38,4 +42,4 @@ It's your time to fly
 
 ---
 
-> the finish line doesn't have an expiration date
+
