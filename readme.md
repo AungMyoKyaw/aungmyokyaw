@@ -18,6 +18,15 @@
 
 ---
 
+```txt
+လမ်းမတွေ့ တဲ့ အမှောင်ထဲတိုး 
+စမ်းတဝါး နဲ့ မနေချင်လို့ 
+မတပ်မက် တော့ဘူး မရချင်ဘူး 
+ငါ့ဘဝကို ပြန်ယူ
+```
+
+[![Idiots - ငါ့ဘဝပြန်ယူ](https://img.youtube.com/vi/TEwJvCZBX3Q/0.jpg)](https://www.youtube.com/watch?v=TEwJvCZBX3Q)
+
 ---
 
 [![fly](https://img.youtube.com/vi/7dcNG6-5O2o/0.jpg)](https://youtu.be/7dcNG6-5O2o)
