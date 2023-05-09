@@ -36,7 +36,11 @@
 
 ---
 
-[![fly](https://img.youtube.com/vi/7dcNG6-5O2o/0.jpg)](https://youtu.be/7dcNG6-5O2o)
+<div>
+  <a href="https://song.link/s/7H0FsG1nPZbPBZ2DLWZCSk">
+    <img src="https://song.link/_next/image?url=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b27308b2458b4cf6ada68a09c262&w=3840&q=75" height="300" >
+  </a>
+</div>
 
 ```txt
 A single step becomes a leap of faith
