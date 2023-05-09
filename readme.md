@@ -25,7 +25,14 @@
 ငါ့ဘဝကို ပြန်ယူ
 ```
 
-[![Idiots - ငါ့ဘဝပြန်ယူ](https://img.youtube.com/vi/TEwJvCZBX3Q/0.jpg)](https://www.youtube.com/watch?v=TEwJvCZBX3Q)
+<div>
+  <a href="https://song.link/s/7MlTxgBinCiJ7Qfy5OLJrY">
+    <img src="https://song.link/_next/image?url=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2731fc19139031cb56d9dac330f&w=3840&q=75" height="300" >
+  </a>
+  <a href="https://song.link/s/7MlTxgBinCiJ7Qfy5OLJrY">
+    <img src="https://song.link/_next/image?url=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b27375996633d8fd588f67517dca&w=3840&q=75" height="300" >
+  </a>
+</div>
 
 ---
 
