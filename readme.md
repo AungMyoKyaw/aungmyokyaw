@@ -10,11 +10,7 @@
 
 > I am the greatest. I said that even before I knew I was
 
-> အဲ့တာ ငါ့ စောက်ကြောင်းလေ
-
 > the finish line doesn't have an expiration date
-
-> စောက်ကြောင်း means the finish line 🤣
 
 ---
 
