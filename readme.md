@@ -19,18 +19,20 @@
 ---
 
 ```txt
-လမ်းမတွေ့ တဲ့ အမှောင်ထဲတိုး
-စမ်းတဝါး နဲ့ မနေချင်လို့
-မတပ်မက် တော့ဘူး မရချင်ဘူး
-ငါ့ဘဝကို ပြန်ယူ 🎵
+ငါယုံကြည်တယ် ဘာဖြစ်ဖြစ်
+အချိန်တန်ရင် အလှဆုံးသော နေ့သစ်
+အတူတူ မင်းနဲ့ ရောက်ဖို့ 
+အဆိုးဆုံးတွေ ချန်ရစ် 🎵
+---
+
 ```
 
 <div>
   <a href="https://song.link/s/1DByL1eGASMTVUF4gDmu69" target="_blank">
     <img src="https://song.link/_next/image?url=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2731fc19139031cb56d9dac330f&w=3840&q=75" height="250" >
   </a>
-  <a href="https://song.link/s/7MlTxgBinCiJ7Qfy5OLJrY" target="_blank">
-    <img src="https://song.link/_next/image?url=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b27375996633d8fd588f67517dca&w=3840&q=75" height="250" >
+  <a href="https://song.link/s/3xqQJ5uCUtMTg3RJJKVfOx" target="_blank">
+    <img src="https://song.link/_next/image?url=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b27341647e802dee6c8dbbd750bd&w=3840&q=75" height="250" >
   </a>
   <a href="https://song.link/s/7H0FsG1nPZbPBZ2DLWZCSk" target="_blank">
     <img src="https://song.link/_next/image?url=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b27308b2458b4cf6ada68a09c262&w=3840&q=75" height="250" >
