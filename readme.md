@@ -8,8 +8,6 @@
 
 > ပညာ သမာ၊ အာဘာ နတ္ထိ
 
-> I am the greatest. I said that even before I knew I was
-
 > the finish line doesn't have an expiration date
 
 ---
