@@ -12,6 +12,8 @@
 
 > the finish line doesn't have an expiration date
 
+> late bloomer / အဲ့တာ ငါ့ စောက်ကြောင်းလေ
+
 ---
 
 ```txt
