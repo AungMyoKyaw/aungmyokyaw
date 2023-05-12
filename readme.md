@@ -9,6 +9,8 @@
 > ပညာ သမာ၊ အာဘာ နတ္ထိ
 
 > the finish line doesn't have an expiration date
+ 
+> အခုမှ မငိုနဲ့ ၊ နောက်လည်း မငိုရစေနဲ့ ၊ လီးပဲ
 
 ---
 
