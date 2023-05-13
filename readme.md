@@ -14,12 +14,7 @@
 
 ---
 
-```txt
-ငါယုံကြည်တယ် ဘာဖြစ်ဖြစ်
-အချိန်တန်ရင် အလှဆုံးသော နေ့သစ်
-အတူတူ မင်းနဲ့ ရောက်ဖို့ 
-အဆိုးဆုံးတွေ ချန်ရစ် 🎵
-```
+
 
 <div>
   <a href="https://youtu.be/TEwJvCZBX3Q" target="_blank">
@@ -39,20 +34,5 @@
 
 ---
 
-```txt
-A single step becomes a leap of faith
-That's when you realize you started flying
-So don't you ever say you're giving up ?
-No, there's no looking back
 
-'Cause we were all meant to fly
-Spread your wings across the universe
-It's your time to
-It's your time to shine
-There's a light inside of all of us
-Soon you'll find that
-It's your time to fly
-It's your time to fly
-```
 
----
