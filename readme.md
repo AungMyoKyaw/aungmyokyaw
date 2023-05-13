@@ -9,12 +9,8 @@
 > ပညာ သမာ၊ အာဘာ နတ္ထိ
 
 > the finish line doesn't have an expiration date
- 
-
 
 ---
-
-
 
 <div>
   <a href="https://youtu.be/TEwJvCZBX3Q" target="_blank">
@@ -31,8 +27,4 @@
   </a>
 </div>
 
-
 ---
-
-
-
