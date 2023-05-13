@@ -32,7 +32,7 @@
     <img src="https://song.link/_next/image?url=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b27308b2458b4cf6ada68a09c262&w=3840&q=75" height="200" >
   </a>
   <a href="https://youtu.be/QGJuMBdaqIw" target="_blank">
-    <img src="https://img.youtube.com/vi/QGJuMBdaqIw/0.jpg" height="200" >
+    <img src="https://img.youtube.com/vi/QGJuMBdaqIw/0.jpg" height="200" width="200" >
   </a>
 </div>
 
