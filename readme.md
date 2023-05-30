@@ -10,6 +10,6 @@
 
 > the finish line doesn't have an expiration date
 
-> အနိုင်မယူသူ အရှုံးရဲ့ အခြားတဖက်မှာ အောင်မြင်ခြင်းဟာ အစဉ်စောင့်ဆိုင်းတယ် [🎵](https://youtu.be/HUWvUDWrSCc)
+> အနိုင်မယူသူ အရှုံးရဲ့ အခြားတဖက်မှာ အောင်မြင်ခြင်းဟာ အစဉ်စောင့်ဆိုင်းတယ် [🎵](https://www.youtube.com/embed/HUWvUDWrSCc?autoplay=true&modestbranding=1&showinfo=0)
 
 ---
