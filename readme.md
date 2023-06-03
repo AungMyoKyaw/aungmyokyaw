@@ -13,3 +13,6 @@
 > အနိုင်မယူသူ အရှုံးရဲ့ အခြားတဖက်မှာ အောင်မြင်ခြင်းဟာ အစဉ်စောင့်ဆိုင်းတယ် [🎵](https://www.youtube.com/embed/HUWvUDWrSCc?autoplay=true&modestbranding=1&showinfo=0)
 
 ---
+
+> [![မေဆွိ - အတ္တ](https://img.youtube.com/vi/Pt6iQSeRHKg/0.jpg)](https://www.youtube.com/watch?v=Pt6iQSeRHKg)
+
