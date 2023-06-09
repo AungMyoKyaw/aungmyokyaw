@@ -14,5 +14,3 @@
 
 ---
 
-> [![မေဆွိ - အတ္တ](https://img.youtube.com/vi/Pt6iQSeRHKg/0.jpg)](https://www.youtube.com/watch?v=Pt6iQSeRHKg)
-
