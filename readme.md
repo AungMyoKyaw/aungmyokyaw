@@ -10,7 +10,7 @@
 
 > the finish line doesn't have an expiration date
 
-> you all gonna pay the price
+> you all gonna pay the price [not 😉 face]
 
 ---
 
