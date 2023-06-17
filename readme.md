@@ -12,6 +12,8 @@
 
 > you all gonna pay the price [not 😉 face]
 
+> you might win the battle, but i will win the war
+
 ---
 
 I can't stop loving this Burmese cover song of [莫文蔚 Karen Mok's "他不愛我" (He Loves Me Not)](https://youtu.be/nuWIJIn7wkw) 🥹
