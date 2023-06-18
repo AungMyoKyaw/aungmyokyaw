@@ -12,7 +12,7 @@
 
 > you all gonna pay the price [not 😉 face]
 
-> **i might lose the battle, but i will win the war**
+> **i lost the battle, but i will win the war**
 
 ---
 
