@@ -16,6 +16,6 @@
 
 ---
 
-i can't stop loving this Burmese cover song of [莫文蔚 Karen Mok's "他不愛我" (He Loves Me Not)](https://youtu.be/nuWIJIn7wkw) 🥹
+i can't stop loving this arakanese song, even though i can't understand the lyrics. arakanese is a dialect of burmese, but i don't comprehend the words. nevertheless, i love the song.
 
-[![YouTube Video](https://img.shields.io/badge/Play%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=vqnKLjrE2x4)
+[![YouTube Video](https://img.shields.io/badge/Play%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/8MXMZOr-1OI)
