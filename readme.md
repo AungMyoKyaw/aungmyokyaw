@@ -16,6 +16,6 @@
 
 ---
 
-i can't stop loving this arakanese song, even though i can't understand the lyrics. arakanese is a dialect of burmese, but i don't comprehend the words. nevertheless, i love the song.
+i can't stop loving this Arakanese song, even though i can't understand the lyrics. Arakanese is a dialect of Burmese, but i don't comprehend the words. nevertheless, i love the song.
 
 [![YouTube Video](https://img.shields.io/badge/Play%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/8MXMZOr-1OI)
