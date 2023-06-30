@@ -16,6 +16,6 @@
 
 ---
 
-i can't stop loving this Arakanese song, even though i can't understand the lyrics. Arakanese is a dialect of Burmese, but i don't comprehend the words. nevertheless, i love the song.
+> **ရေပြည့်တဲ့အိုး တစက်ပိုကလေးနဲ့လည်း လျှံမယ်** 🎵
 
-[![YouTube Video](https://img.shields.io/badge/Play%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/8MXMZOr-1OI)
+[![YouTube Video](https://img.shields.io/badge/Play%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/clBJT74Nu2Y)
