@@ -16,6 +16,6 @@
 
 ---
 
-> **ရေပြည့်တဲ့အိုး တစက်ပိုကလေးနဲ့လည်း လျှံမယ်** 🎵
+> ကြီးလာရင်ချမ်းသာပြီးတော့ ဝင်ငွေကောင်းအောင် စာတွေပဲကျက် 🤣 
 
-[![YouTube Video](https://img.shields.io/badge/Play%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/clBJT74Nu2Y)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-Listen-orange?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/hybrid-hyper-tamanasan/j-me-ko-ba-wa-nae-ko)
