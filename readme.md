@@ -15,7 +15,3 @@
 > **i lost the battle, but i will win the war**
 
 ---
-
-> ကြီးလာရင်ချမ်းသာပြီးတော့ ဝင်ငွေကောင်းအောင် စာတွေပဲကျက် 🤣 
-
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-Listen-orange?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/hybrid-hyper-tamanasan/j-me-ko-ba-wa-nae-ko)
