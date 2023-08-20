@@ -10,8 +10,6 @@
 
 > the finish line doesn't have an expiration date
 
-> you all gonna pay the price [not 😉 face]
-
 > **i lost the battle, but i will win the war**
 
 ---
