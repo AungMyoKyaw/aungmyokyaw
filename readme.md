@@ -1,6 +1,6 @@
 # [Aung Myo Kyaw](https://www.aungmyokyaw.com)
 
-> i [write](https://blog.aungmyokyaw.com) code
+> i write code
 
 > 👨‍💻 🧘‍♂️ 🎓 🎉 🌼
 
