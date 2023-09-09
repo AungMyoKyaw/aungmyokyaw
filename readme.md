@@ -1,6 +1,6 @@
 # [Aung Myo Kyaw](https://www.aungmyokyaw.com)
 
-> i write code
+> Programmer | Lifelong Learner | Tech Enthusiast | Buddhism Enthusiast
 
 > 👨‍💻 🧘‍♂️ 🎓 🎉 🌼
 
