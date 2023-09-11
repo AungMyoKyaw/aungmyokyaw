@@ -10,8 +10,6 @@
 
 > the finish line doesn't have an expiration date
 
-> **i lost the battle, but i will win the war**
-
 [🎵 မလွယ်တာတွေ့ရင် ပိုခက်တဲ့ တခြားဘဝတွေကို ငဲ့ကြည့်ပါဦး ။](https://youtu.be/9hkBjUiddWg)
 
 ---
