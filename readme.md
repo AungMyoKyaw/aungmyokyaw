@@ -1,7 +1,6 @@
 # [Aung Myo Kyaw](https://www.aungmyokyaw.com)
 
-> Programmer | Lifelong Learner | Tech Enthusiast | Buddhism Enthusiast
-
+> Programmer | Lifelong Learner | Tech Enthusiast
 > 👨‍💻 🧘‍♂️ 🎓 🎉 🌼
 
 > [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aungmyokyaw/)
