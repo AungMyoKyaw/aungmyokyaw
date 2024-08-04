@@ -5,6 +5,8 @@
 
 > [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aungmyokyaw/)
 
+> [![coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learner/aungmyokyaw)
+
 > **ပညာ သမာ၊ အာဘာ နတ္ထိ**
 
 > the finish line doesn't have an expiration date
