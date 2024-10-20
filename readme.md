@@ -9,6 +9,8 @@
 
 > **ပညာ သမာ၊ အာဘာ နတ္ထိ**
 
-> the finish line doesn't have an expiration date
+> **The best time to plant a tree was 20 years ago. The second best time is now.**
+
+> **The finish line doesn’t have an expiration date.**
 
 ---
