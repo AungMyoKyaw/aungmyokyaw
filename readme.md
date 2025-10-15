@@ -14,5 +14,7 @@
 > **The finish line doesn’t have an expiration date.**
 
 > **တစ်နေ့တစ်လံ ပုဂံဘယ်ရွေ့မလဲ**
+ 
+> **အရေအတွက်မှသည် အရည်အချင်းသို့**
 
 ---
